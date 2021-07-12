@@ -1,3 +1,3 @@
-# contact_list
+#contact_list
 
-A PHONE BOOK USING KOTLIN
+A PHONE BOOK USING KOTLIN RECYCLERVIEW
